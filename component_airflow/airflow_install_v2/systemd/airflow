@@ -1,0 +1,2 @@
+AIRFLOW_CONFIG=/app/servers/airflow/airflow.cfg
+AIRFLOW_HOME=/app/servers/airflow
